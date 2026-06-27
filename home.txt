@@ -1,0 +1,4 @@
+Hello friend.
+This is a server made for learning.
+            
+This is the home page.
